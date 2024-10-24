@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-This repository contains my solutions of asks from [LeetCode](https://leetcode.com/).
+This repository contains my solutions of tasks from [LeetCode](https://leetcode.com/).
 
 ## Solved tasks
 
